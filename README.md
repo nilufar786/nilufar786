@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: fnilu4441@gmail.com
-- 😄 My website: https://www.nilufar.com
+- 😄 My website: https://www.nilufar.com.np
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:

@@ -1,16 +1,33 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Nilufar</h1>
 
-<!--
-**nilufar786/nilufar786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: fnilu4441@gmail.com
+- 😄 My website: https://www.nilufar.com
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/nilufar786">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://https://www.youtube.com/@nilu-far.universe">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/nilufar786__/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+ 
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+<br>
+⭐️ From [nilufar786](https://github.com/nilufar786)
